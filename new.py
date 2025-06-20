@@ -1,3 +1,3 @@
 print("Hello, Git")
 print("Hello, GitHub!")
-print("TRYING OUT REVERT")
+print("TRYING OUT")
